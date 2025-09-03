@@ -1,6 +1,12 @@
 NordPass Account Login: A Comprehensive Guide
 ============================================
 
+.. image:: login.png
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://aclogportal.com/nordpass-login
+____________________
 
 In the digital age, managing passwords securely is essential for protecting your online identity and sensitive information. NordPass, a leading password manager, offers users a reliable and straightforward way to store, generate, and access passwords safely. One of the most crucial aspects of using NordPass effectively is understanding the NordPass account login process, which is designed to provide seamless and secure access to your password vault.
 
